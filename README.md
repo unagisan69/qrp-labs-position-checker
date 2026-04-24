@@ -13,17 +13,17 @@ This script fetches the QRP Labs QCX-mini assembled orders page and parses the t
 - beautifulsoup4
 
 Install dependencies:
-
+```bash
 pip3 install requests beautifulsoup4
-
+```
 ## Usage
-
+```bash
 python3 qrp-position.py
-
+```
 ### Example
-
+```bash
 python3 qrp-position.py 123
-
+```
 ## Output
 
 The script will return:
