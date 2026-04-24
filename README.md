@@ -18,7 +18,7 @@ pip3 install requests beautifulsoup4
 ```
 ## Usage
 ```bash
-python3 qrp-position.py
+python3 qrp-position.py <order number>
 ```
 ### Example
 ```bash
